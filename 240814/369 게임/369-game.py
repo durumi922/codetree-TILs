@@ -1,5 +1,4 @@
 n = int(input())
-t1=0
 
 for i in range(1, n+1):
     t1=0 #왜지..........
