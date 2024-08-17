@@ -6,4 +6,7 @@ if a%2!=0:
     if a%3==0:
         a=int(a/3)
     
-    print(a)
+else:
+    a=int(a/3)
+
+print(a)
