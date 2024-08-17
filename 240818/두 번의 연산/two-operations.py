@@ -9,4 +9,4 @@ if a%2!=0:
 else:
     a=int(a/3)
 
-print(a)
+print(int(a))
