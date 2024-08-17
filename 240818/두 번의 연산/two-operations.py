@@ -6,7 +6,7 @@ if a%2!=0:
     if a%3==0:
         a=int(a/3)
     
-else:
+elif a%3==0:
     a=int(a/3)
 
-print(int(a))
+print(a)
