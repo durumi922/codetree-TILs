@@ -9,6 +9,8 @@ for i in range(n):
         continue
     elif i%12==0:
         cnt12 += 1
+    elif i % 6 == 0 :
+        cnt3 += 1
     elif i%3==0:
         cnt3 += 1
     elif i%2==0:
