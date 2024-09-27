@@ -3,7 +3,7 @@ cnt = 0
 while True:
     p = int(input())
 
-    if p > 29:
+    if p >= 30:
         break
 
     sum_p += p
