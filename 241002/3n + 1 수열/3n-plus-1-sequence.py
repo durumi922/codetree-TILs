@@ -1,6 +1,11 @@
 n = int(input())
 cnt = 0
 
+if n == 1 :
+    print("0")
+    break
+
+
 while True:
     if n %2 ==0:
         n = n / 2
